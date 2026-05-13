@@ -632,7 +632,6 @@ JARVIS 2080 to **żywy projekt**. Rośniemy razem.
 > To jest autonomiczny byt, który widzi, myśli, działa i ewoluuje.  
 > I dopiero zaczynamy."*
 
-<img width="1280" height="670" alt="JARVIS_2080_DEMO" src="https://github.com/user-attachments/assets/f531cc8c-bba0-44c7-9d9a-cebc3c233bf2" />
 
 
 
