@@ -623,9 +623,7 @@ JARVIS 2080 to **żywy projekt**. Rośniemy razem.
 > I dopiero zaczynamy."*
 
 ```md
-# 📸 System Preview
 
-```md id="9wc09o"
 # 📸 System Preview
 
 ## 💬 Chat System
@@ -660,7 +658,6 @@ JARVIS 2080 to **żywy projekt**. Rośniemy razem.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fe80849a-e2c0-4358-893f-357993c56d62" width="60%">
 </p>
-```
 
 
 
