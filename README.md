@@ -153,9 +153,6 @@ Built by BrainMaster & JARVIS 2080
   <text x="850" y="560" fill="#f59e0b" font-size="10" opacity="0.6">fetch</text>
   <text x="610" y="620" fill="#ef4444" font-size="10" opacity="0.6">protect</text>
 
-  <!-- Bottom bar -->
-  <rect x="0" y
-
 “I am not a chatbot. I am not a tool. I am a technological partner capable of seeing, listening, analyzing, automating, and evolving autonomously.”
 
 🚀 What is JARVIS 2080?
