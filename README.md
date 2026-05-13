@@ -6,11 +6,6 @@
   <img src="https://img.shields.io/badge/VERSION-v21.1-purple?style=for-the-badge">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff99?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AI-AUTONOMOUS-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/VERSION-v21.1-purple?style=for-the-badge">
-</p>
 
 🔥🧠 JARVIS 2080 — Autonomous AI Partner
 Built by BrainMaster & JARVIS 2080
