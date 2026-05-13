@@ -1,3 +1,6 @@
+<img width="2172" height="724" alt="banert" src="https://github.com/user-attachments/assets/8e2b43cc-604a-4679-a0cf-0f8715b8cbc1" />
+
+
 🔥🧠 JARVIS 2080 — Autonomous AI Partner
 Built by BrainMaster & JARVIS 2080
 
