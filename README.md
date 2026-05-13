@@ -1,4 +1,5 @@
-
+🔥🧠 JARVIS 2080 — Autonomous AI Partner
+Built by BrainMaster & JARVIS 2080
 <img width="2172" height="724" alt="banert" src="https://github.com/user-attachments/assets/8e2b43cc-604a-4679-a0cf-0f8715b8cbc1" />
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff99?style=for-the-badge">
@@ -6,9 +7,154 @@
   <img src="https://img.shields.io/badge/VERSION-v21.1-purple?style=for-the-badge">
 </p>
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a1a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a0a2e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="coreGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff6b35" />
+      <stop offset="100%" style="stop-color:#ff2d55" />
+    </linearGradient>
+    <linearGradient id="visionGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00d4ff" />
+      <stop offset="100%" style="stop-color:#007aff" />
+    </linearGradient>
+    <linearGradient id="memoryGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00ff87" />
+      <stop offset="100%" style="stop-color:#00b894" />
+    </linearGradient>
+    <linearGradient id="autoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#a855f7" />
+      <stop offset="100%" style="stop-color:#7c3aed" />
+    </linearGradient>
+    <linearGradient id="webGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b" />
+      <stop offset="100%" style="stop-color:#d97706" />
+    </linearGradient>
+    <linearGradient id="secGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ef4444" />
+      <stop offset="100%" style="stop-color:#dc2626" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
 
-🔥🧠 JARVIS 2080 — Autonomous AI Partner
-Built by BrainMaster & JARVIS 2080
+  <!-- Background -->
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  
+  <!-- Grid pattern -->
+  <g opacity="0.03">
+    <line x1="0" y1="0" x2="1200" y2="0" stroke="#fff" stroke-width="0.5"/>
+    <line x1="0" y1="100" x2="1200" y2="100" stroke="#fff" stroke-width="0.5"/>
+    <line x1="0" y1="200" x2="1200" y2="200" stroke="#fff" stroke-width="0.5"/>
+    <line x1="0" y1="300" x2="1200" y2="300" stroke="#fff" stroke-width="0.5"/>
+    <line x1="0" y1="400" x2="1200" y2="400" stroke="#fff" stroke-width="0.5"/>
+    <line x1="0" y1="500" x2="1200" y2="500" stroke="#fff" stroke-width="0.5"/>
+    <line x1="0" y1="600" x2="1200" y2="600" stroke="#fff" stroke-width="0.5"/>
+    <line x1="0" y1="700" x2="1200" y2="700" stroke="#fff" stroke-width="0.5"/>
+    <line x1="0" y1="800" x2="1200" y2="800" stroke="#fff" stroke-width="0.5"/>
+    <line x1="0" y1="900" x2="1200" y2="900" stroke="#fff" stroke-width="0.5"/>
+    <line x1="0" y1="0" x2="0" y2="900" stroke="#fff" stroke-width="0.5"/>
+    <line x1="200" y1="0" x2="200" y2="900" stroke="#fff" stroke-width="0.5"/>
+    <line x1="400" y1="0" x2="400" y2="900" stroke="#fff" stroke-width="0.5"/>
+    <line x1="600" y1="0" x2="600" y2="900" stroke="#fff" stroke-width="0.5"/>
+    <line x1="800" y1="0" x2="800" y2="900" stroke="#fff" stroke-width="0.5"/>
+    <line x1="1000" y1="0" x2="1000" y2="900" stroke="#fff" stroke-width="0.5"/>
+    <line x1="1200" y1="0" x2="1200" y2="900" stroke="#fff" stroke-width="0.5"/>
+  </g>
+
+  <!-- Title -->
+  <text x="600" y="50" text-anchor="middle" fill="#fff" font-size="28" font-weight="bold" filter="url(#glow)">JARVIS 2080 — SYSTEM ARCHITECTURE</text>
+  <text x="600" y="75" text-anchor="middle" fill="#888" font-size="14">Autonomous AI Partner — Cognitive Amplification v21.1</text>
+
+  <!-- CORE (center) -->
+  <rect x="400" y="320" width="400" height="260" rx="20" fill="url(#coreGrad)" opacity="0.15" stroke="url(#coreGrad)" stroke-width="2" filter="url(#shadow)"/>
+  <rect x="420" y="340" width="360" height="220" rx="15" fill="url(#coreGrad)" opacity="0.1"/>
+  <text x="600" y="380" text-anchor="middle" fill="#ff6b35" font-size="24" font-weight="bold" filter="url(#glow)">🧠 JARVIS CORE</text>
+  <text x="600" y="410" text-anchor="middle" fill="#ccc" font-size="12">EventBus · Persistence · MathEngine</text>
+  <text x="600" y="430" text-anchor="middle" fill="#ccc" font-size="12">ErrorMemory · MLPersonality · DecisionEngine</text>
+  <text x="600" y="450" text-anchor="middle" fill="#ccc" font-size="12">ShadowWorker · QOS Core v3.1</text>
+  <text x="600" y="480" text-anchor="middle" fill="#ff6b35" font-size="14" font-weight="bold">🔥 100% Energy — Permanent</text>
+  <text x="600" y="510" text-anchor="middle" fill="#888" font-size="11">UCB1 + Gumbel · Bellman · PPO · Attention · MCTS</text>
+  <text x="600" y="530" text-anchor="middle" fill="#888" font-size="11">Path Integral Control · Fisher Gate</text>
+
+  <!-- VISION (top-left) -->
+  <rect x="30" y="110" width="280" height="200" rx="15" fill="url(#visionGrad)" opacity="0.12" stroke="url(#visionGrad)" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="170" y="150" text-anchor="middle" fill="#00d4ff" font-size="20" font-weight="bold" filter="url(#glow)">👁️ VISION SYSTEM</text>
+  <text x="170" y="180" text-anchor="middle" fill="#ccc" font-size="12">CameraVisionEngine v21</text>
+  <text x="170" y="200" text-anchor="middle" fill="#888" font-size="11">Face detection · Emotion analysis</text>
+  <text x="170" y="218" text-anchor="middle" fill="#888" font-size="11">Hand tracking · Pose landmarks</text>
+  <text x="170" y="236" text-anchor="middle" fill="#888" font-size="11">OCR · Real-time @ 1s</text>
+  <text x="170" y="260" text-anchor="middle" fill="#ccc" font-size="12">ScreenShareEngine v21</text>
+  <text x="170" y="280" text-anchor="middle" fill="#888" font-size="11">Full screen capture · 1920x1080</text>
+  <text x="170" y="298" text-anchor="middle" fill="#888" font-size="11">Active window tracking · OCR @ 3s</text>
+
+  <!-- MEMORY (top-right) -->
+  <rect x="890" y="110" width="280" height="200" rx="15" fill="url(#memoryGrad)" opacity="0.12" stroke="url(#memoryGrad)" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="1030" y="150" text-anchor="middle" fill="#00ff87" font-size="20" font-weight="bold" filter="url(#glow)">💾 MEMORY SYSTEM</text>
+  <text x="1030" y="180" text-anchor="middle" fill="#ccc" font-size="12">Native Memory (SQLite WAL)</text>
+  <text x="1030" y="200" text-anchor="middle" fill="#888" font-size="11">Sessions · Messages · Facts</text>
+  <text x="1030" y="218" text-anchor="middle" fill="#888" font-size="11">Cross-session persistence</text>
+  <text x="1030" y="242" text-anchor="middle" fill="#ccc" font-size="12">MLPersonality (7D)</text>
+  <text x="1030" y="262" text-anchor="middle" fill="#888" font-size="11">Techniczne · Kod · Innowacja</text>
+  <text x="1030" y="280" text-anchor="middle" fill="#888" font-size="11">Kreatywność · Charyzma · Empatia · Styl</text>
+  <text x="1030" y="300" text-anchor="middle" fill="#888" font-size="11">Asymptotic learning rate</text>
+
+  <!-- AUTOMATION (bottom-left) -->
+  <rect x="30" y="590" width="280" height="200" rx="15" fill="url(#autoGrad)" opacity="0.12" stroke="url(#autoGrad)" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="170" y="630" text-anchor="middle" fill="#a855f7" font-size="20" font-weight="bold" filter="url(#glow)">🖥️ AUTOMATION</text>
+  <text x="170" y="660" text-anchor="middle" fill="#ccc" font-size="12">DesktopAutomationEngine</text>
+  <text x="170" y="680" text-anchor="middle" fill="#888" font-size="11">Launch apps · Open URLs · Focus windows</text>
+  <text x="170" y="698" text-anchor="middle" fill="#888" font-size="11">Type text · Press keys · Click</text>
+  <text x="170" y="716" text-anchor="middle" fill="#888" font-size="11">Screenshots · Organize desktop</text>
+  <text x="170" y="740" text-anchor="middle" fill="#ccc" font-size="12">DesktopPlanGenerator</text>
+  <text x="170" y="760" text-anchor="middle" fill="#888" font-size="11">GPT-based plan decomposition</text>
+  <text x="170" y="778" text-anchor="middle" fill="#888" font-size="11">Async execution · Daemon threads</text>
+
+  <!-- WEB (bottom-right) -->
+  <rect x="890" y="590" width="280" height="200" rx="15" fill="url(#webGrad)" opacity="0.12" stroke="url(#webGrad)" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="1030" y="630" text-anchor="middle" fill="#f59e0b" font-size="20" font-weight="bold" filter="url(#glow)">🌐 WEB SYSTEM</text>
+  <text x="1030" y="660" text-anchor="middle" fill="#ccc" font-size="12">WebSearchAgent</text>
+  <text x="1030" y="680" text-anchor="middle" fill="#888" font-size="11">DuckDuckGo HTML search</text>
+  <text x="1030" y="698" text-anchor="middle" fill="#888" font-size="11">Page fetching · Content parsing</text>
+  <text x="1030" y="722" text-anchor="middle" fill="#ccc" font-size="12">FileSystemAgent</text>
+  <text x="1030" y="742" text-anchor="middle" fill="#888" font-size="11">Read · Write · List · Create</text>
+  <text x="1030" y="760" text-anchor="middle" fill="#888" font-size="11">Blocked paths protection</text>
+  <text x="1030" y="784" text-anchor="middle" fill="#888" font-size="11">KeyVault · GeneratedFileManager</text>
+
+  <!-- SECURITY (bottom center) -->
+  <rect x="400" y="640" width="400" height="120" rx="15" fill="url(#secGrad)" opacity="0.12" stroke="url(#secGrad)" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="600" y="675" text-anchor="middle" fill="#ef4444" font-size="20" font-weight="bold" filter="url(#glow)">🔒 SECURITY LAYER</text>
+  <text x="600" y="700" text-anchor="middle" fill="#ccc" font-size="12">Dual-Pass Generator · SecurityScanner (OWASP Top 10)</text>
+  <text x="600" y="720" text-anchor="middle" fill="#888" font-size="11">Hardcoded secrets · SQL injection · XSS · Pickle · Weak crypto</text>
+  <text x="600" y="740" text-anchor="middle" fill="#888" font-size="11">AutoRepairLoop (3x) · Sandbox · AST analysis</text>
+
+  <!-- Connection lines from CORE to modules -->
+  <line x1="400" y1="420" x2="310" y2="310" stroke="#00d4ff" stroke-width="1.5" opacity="0.4" stroke-dasharray="5,5"/>
+  <line x1="800" y1="420" x2="890" y2="310" stroke="#00ff87" stroke-width="1.5" opacity="0.4" stroke-dasharray="5,5"/>
+  <line x1="400" y1="500" x2="310" y2="590" stroke="#a855f7" stroke-width="1.5" opacity="0.4" stroke-dasharray="5,5"/>
+  <line x1="800" y1="500" x2="890" y2="590" stroke="#f59e0b" stroke-width="1.5" opacity="0.4" stroke-dasharray="5,5"/>
+  <line x1="600" y1="580" x2="600" y2="640" stroke="#ef4444" stroke-width="1.5" opacity="0.4" stroke-dasharray="5,5"/>
+
+  <!-- Labels on connections -->
+  <text x="340" y="350" fill="#00d4ff" font-size="10" opacity="0.6">pub/sub</text>
+  <text x="850" y="350" fill="#00ff87" font-size="10" opacity="0.6">persist</text>
+  <text x="340" y="560" fill="#a855f7" font-size="10" opacity="0.6">execute</text>
+  <text x="850" y="560" fill="#f59e0b" font-size="10" opacity="0.6">fetch</text>
+  <text x="610" y="620" fill="#ef4444" font-size="10" opacity="0.6">protect</text>
+
+  <!-- Bottom bar -->
+  <rect x="0" y
 
 “I am not a chatbot. I am not a tool. I am a technological partner capable of seeing, listening, analyzing, automating, and evolving autonomously.”
 
