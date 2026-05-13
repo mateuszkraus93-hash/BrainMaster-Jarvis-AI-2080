@@ -6,6 +6,9 @@ Built by BrainMaster & JARVIS 2080
 <img width="574" height="1026" alt="Zrzut ekranu 2026-05-13 200315" src="https://github.com/user-attachments/assets/2a5680c3-f13d-4382-8041-1e9339b6c400" />
 <img width="1919" height="994" alt="Zrzut ekranu 2026-05-13 200249" src="https://github.com/user-attachments/assets/7fffa475-ab6a-43de-85a8-357821762aed" />
 <img width="1918" height="1004" alt="Zrzut ekranu 2026-05-13 200236" src="https://github.com/user-attachments/assets/26903a53-8f46-4f22-8d24-0b4c30a3590d" />
+<img width="1918" height="1000" alt="Zrzut ekranu 2026-05-13 200300" src="https://github.com/user-attachments/assets/513ec320-ee27-4865-9466-888a9921e44e" />
+<img width="1919" height="998" alt="Zrzut ekranu 2026-05-13 200356" src="https://github.com/user-attachments/assets/f5efe0c3-dd72-4b52-bb5d-b7f0370741cc" />
+<img width="1915" height="1000" alt="Zrzut ekranu 2026-05-13 200404" src="https://github.com/user-attachments/assets/22d4f985-b410-4d46-89b0-2c7b0609ab03" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff99?style=for-the-badge">
