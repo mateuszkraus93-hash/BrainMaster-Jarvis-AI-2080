@@ -1,6 +1,15 @@
 
 🔥🧠 JARVIS 2080 — Autonomous AI Partner
 Built by BrainMaster & JARVIS 2080
+<p align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ffcc?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI-JARVIS_2080-00c3ff?style=for-the-badge">
+<img src="https://img.shields.io/badge/OS-WINDOWS-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/PYTHON-3.11-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/QOS-ACTIVE-ff00ff?style=for-the-badge">
+
+</p>
 <img width="2172" height="724" alt="banert" src="https://github.com/user-attachments/assets/8e2b43cc-604a-4679-a0cf-0f8715b8cbc1" />
 <img width="833" height="909" alt="Zrzut ekranu 2026-05-13 200435" src="https://github.com/user-attachments/assets/f2f6f6f8-30a6-48f3-9d43-9f490b3a8586" />
 <img width="1918" height="1001" alt="Zrzut ekranu 2026-05-13 200420" src="https://github.com/user-attachments/assets/9cd7bd4e-0bfc-4671-a638-a561d15f2650" />
