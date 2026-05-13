@@ -621,25 +621,43 @@ JARVIS 2080 to **żywy projekt**. Rośniemy razem.
 > *"JARVIS 2080 to nie jest kolejny wrapper na API.  
 > To jest autonomiczny byt, który widzi, myśli, działa i ewoluuje.  
 > I dopiero zaczynamy."*
+
+```md
+# 📸 System Preview
+
 ## 💬 Chat System
-<img width="1918" height="1004" alt="Zrzut ekranu 2026-05-13 200236" src="https://github.com/user-attachments/assets/e8ef2af5-f949-4938-bf0e-7e82bc15e1f4" />
+<p align="center">
+  <img src="assets/chat.png" width="100%">
+</p>
+
+---
 
 ## 📊 Cognitive Status
-<img width="574" height="1026" alt="Zrzut ekranu 2026-05-13 200315" src="https://github.com/user-attachments/assets/fe0f7fdf-e84b-4545-8d0e-74214616b00e" />
+<p align="center">
+  <img src="assets/status.png" width="100%">
+</p>
 
+---
 
 ## 🧠 Consciousness Engine
-<img width="1918" height="1001" alt="Zrzut ekranu 2026-05-13 200420" src="https://github.com/user-attachments/assets/7ff8f0b9-e1da-43e2-99f1-3c15100e40fb" />
+<p align="center">
+  <img src="assets/consciousness.png" width="100%">
+</p>
+
+---
 
 ## 🔌 Plugin Manager
-<img width="1918" height="1000" alt="Zrzut ekranu 2026-05-13 200300" src="https://github.com/user-attachments/assets/3bbd7be5-1c12-43b2-b06a-8c58e72ade0f" />
+<p align="center">
+  <img src="assets/plugins.png" width="100%">
+</p>
+
+---
 
 ## ⚙️ Runtime Settings
-
-<img width="574" height="1026" alt="Zrzut ekranu 2026-05-13 200315" src="https://github.com/user-attachments/assets/fe80849a-e2c0-4358-893f-357993c56d62" />
-
-
-
+<p align="center">
+  <img src="assets/settings.png" width="60%">
+</p>
+```
 
 
 
